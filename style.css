@@ -6,7 +6,7 @@
     font-family: 'Mulish', sans-serif;
 }
 #banner {
-    background: url(/img/item1.jpg);
+    background: url(img/item1.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
